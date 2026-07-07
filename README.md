@@ -3,7 +3,7 @@
 An intelligent Retrieval-Augmented Generation (RAG) chatbot that answers questions from an Excel dataset using Google Gemini, BAAI BGE-M3 Embeddings, and Qdrant Vector Database. The application semantically retrieves relevant employee records before generating accurate, context-aware responses.
 
 🚀 Features:
-      📄 Reads and processes Excel datasets
+      📄 Reads and processes Excel datasets 
       🧹 Data cleaning and preprocessing using Pandas
       ✂️ Semantic chunking of employee records
       🧠 Dense & Sparse embeddings using BAAI/BGE-M3
