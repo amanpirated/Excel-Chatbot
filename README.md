@@ -102,7 +102,7 @@ uv add qdrant-client
 uv add FlagEmbedding
 uv add google-genai
 uv add python-dotenv
-uv add streamlit
+uv add streamlit 
 🔑 Configure API Key
 
 Create a .env file
