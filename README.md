@@ -2,27 +2,27 @@
 
 An intelligent Retrieval-Augmented Generation (RAG) chatbot that answers questions from an Excel dataset using Google Gemini, BAAI BGE-M3 Embeddings, and Qdrant Vector Database. The application semantically retrieves relevant employee records before generating accurate, context-aware responses.
 
-🚀 Features
-📄 Reads and processes Excel datasets
-🧹 Data cleaning and preprocessing using Pandas
-✂️ Semantic chunking of employee records
-🧠 Dense & Sparse embeddings using BAAI/BGE-M3
-🔍 Semantic retrieval using Qdrant Vector Database
-🤖 Natural language responses powered by Gemini 2.5 Flash
-💬 Command Line Interface (CLI)
-🌐 Streamlit UI 
-🏗️ Modular and scalable architecture
-🛠️ Tech Stack
-Category	Technology
-Language	Python
-LLM	Google Gemini 2.5 Flash
-Embedding Model	BAAI/BGE-M3
-Vector Database	Qdrant
-Data Processing	Pandas
-Excel Reader	OpenPyXL
-UI	Streamlit
-Environment	Python Dotenv
-Package Manager	uv
+🚀 Features:
+      📄 Reads and processes Excel datasets
+      🧹 Data cleaning and preprocessing using Pandas
+      ✂️ Semantic chunking of employee records
+      🧠 Dense & Sparse embeddings using BAAI/BGE-M3
+      🔍 Semantic retrieval using Qdrant Vector Database
+      🤖 Natural language responses powered by Gemini 2.5 Flash
+      💬 Command Line Interface (CLI)
+      🌐 Streamlit UI 
+      🏗️ Modular and scalable architecture
+🛠️ Tech Stack:
+          Category	Technology
+          Language	Python
+          LLM	Google Gemini 2.5 Flash
+          Embedding Model	BAAI/BGE-M3
+          Vector Database	Qdrant
+          Data Processing	Pandas
+          Excel Reader	OpenPyXL
+          UI	Streamlit
+          Environment	Python Dotenv
+          Package Manager	uv
 🏗️ Project Architecture
                 Excel Dataset
                       │
